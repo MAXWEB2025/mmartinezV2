@@ -225,7 +225,7 @@ background-color: rgb(8, 26, 141);
     background: aqua;
     border-radius: 40px;
     box-shadow: 0 0 10px aqua;
-    font-size: 16px;
+    font-size: 17px;
     color:black;
     letter-spacing: 10px;
     text-decoration: none;
@@ -233,7 +233,7 @@ background-color: rgb(8, 26, 141);
     transition: all 1s;
     margin-top: 10px;
     text-align: center;
-    margin: 24px;
+    margin: 18px;
 }
 
 .footer__title{
