@@ -52,11 +52,11 @@ document.getElementById("cambiar_tamaño").onclick = function(){
                             document.getElementById("cambiar_tamaño7").addEventListener("click",function(){
                                 document.getElementById("demo7").style.fontSize="20px";       
                                 });
-/*
+
                                 document.getElementById("cambiar_tamaño8").addEventListener("click",function(){
                                     document.getElementById("demo8").style.fontSize="20px";       
                                     });
-*/
+
                                     document.getElementById("cambiar_tamaño9").addEventListener("click",function(){
                                         document.getElementById("demo9").style.fontSize="20px";       
                                         });
@@ -91,11 +91,11 @@ document.getElementById("c-t-").addEventListener("click",function(){
                 document.getElementById("volver_tamaño7").addEventListener("click",function(){
                     document.getElementById("demo7").style.fontSize="15px";       
                     });
-/*
+
                     document.getElementById("volver_tamaño8").addEventListener("click",function(){
                         document.getElementById("demo8").style.fontSize="15px";       
                         });
-*/
+
                         document.getElementById("volver_tamaño9").addEventListener("click",function(){
                             document.getElementById("demo9").style.fontSize="15px";       
                             });
