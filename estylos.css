@@ -142,10 +142,11 @@ header{
     align-items: center;
 }
 .contac__titulo{
-   color: rgb(15, 27, 163);
+   color: rgb(240, 237, 37);
    text-align: center;
    font-size: 30px;
    margin-bottom: 25px;
+   box-shadow: 0 0 10px rgb(234, 243, 243);
 }
 .contacto__form{
     background-color:rgb(15, 27, 163);
