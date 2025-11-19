@@ -4,8 +4,8 @@ self.addEventListener("install", event => {
         return cache.addAll([
           "/",
           "/index.html",
-          "/style.css",
-          "/main.js"
+          "/estylos.css?v=1.0",
+          "/scritp.js?v=1.0"
         ]);
       })
     );

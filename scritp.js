@@ -116,9 +116,6 @@ document.getElementById("color_fondo").style.backgroundColor ="  rgb(151, 151, 1
 });
  *///* cambiar color verde verdadero (evento mouseover)
 
-document.getElementById("cajatexto").addEventListener("mouseover",function(){
-    document.getElementById("cajatexto").style.backgroundColor ="  rgb(138, 246, 105)";
-} );
 
 document.getElementById("cajatexto2").addEventListener("mouseover",function(){ 
     document.getElementById("cajatexto2").style.backgroundColor ="  rgb(138, 246, 105)"; 
@@ -152,10 +149,6 @@ document.getElementById("cajatexto8").addEventListener("mouseover",function(){
 } ); 
 
 
-//*alerta boton enviar
-document.getElementById("alert").addEventListener("click",function(){
-alert("MUCHAS GRACIAS POR VER MI C.V !!!!") ;      
-});
 
 
 
